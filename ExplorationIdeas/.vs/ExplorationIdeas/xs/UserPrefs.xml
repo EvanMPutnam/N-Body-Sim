@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DF12E6F9-9F82-E787-F1F5-8C3BBF1CD09F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GeneratePlanets.cs">
+    <Files>
+      <File FileName="Assets/GeneratePlanets.cs" Line="228" Column="25" />
+      <File FileName="Assets/CameraSwap.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
